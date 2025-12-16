@@ -14,3 +14,4 @@ Notes and usage details for yu-ai-agent.
 - fix a small wording issue
 - clarify the setup steps
 - add a note about the defaults
+- fix a small wording issue
